@@ -1,0 +1,9 @@
+﻿  Collision.cpp
+C:\Users\amittal\source\repos\Test\Test\Collision.cpp(20,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\amittal\source\repos\Test\Test\Collision.cpp(22,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Enemy.cpp
+C:\Users\amittal\source\repos\Test\Test\Enemy.cpp(24,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Shooting_game.cpp
+C:\Users\amittal\source\repos\Test\Test\Shooting_game.cpp(37,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Test.vcxproj -> C:\Users\amittal\source\repos\Test\x64\Debug\Test.exe
